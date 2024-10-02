@@ -3,3 +3,6 @@ Hello World !
 
 
 Badreddine
+finger ("how many fingers do you have ?")
+             finger=="nine":
+             ("nine finger")
